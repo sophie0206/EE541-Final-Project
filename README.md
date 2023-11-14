@@ -1,4 +1,4 @@
-# Using Efficientnet for Pawpularity Prediction
+# Using Efficientnet with Mixup Augmentation for Pawpularity Prediction
 
 - ### Requirements
     - pytorch
